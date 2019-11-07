@@ -8,7 +8,6 @@ import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
 import com.android.example.icafaapp.R
-import com.android.example.icafaapp.databinding.FragmentHomeBinding
 import com.android.example.icafaapp.databinding.FragmentLoginBinding
 
 /**

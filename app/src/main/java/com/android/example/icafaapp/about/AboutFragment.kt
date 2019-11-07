@@ -10,7 +10,6 @@ import androidx.navigation.ui.NavigationUI
 
 import com.android.example.icafaapp.R
 import com.android.example.icafaapp.databinding.FragmentAboutBinding
-import com.android.example.icafaapp.databinding.FragmentHomeBinding
 
 /**
  * A simple [Fragment] subclass.

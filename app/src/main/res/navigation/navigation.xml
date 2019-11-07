@@ -6,11 +6,6 @@
     app:startDestination="@id/loginFragment">
 
     <fragment
-        android:id="@+id/homeFragment"
-        android:name="com.android.example.icafaapp.home.HomeFragment"
-        android:label="fragment_home"
-        tools:layout="@layout/fragment_home" />
-    <fragment
         android:id="@+id/aboutFragment"
         android:name="com.android.example.icafaapp.about.AboutFragment"
         android:label="fragment_about"
