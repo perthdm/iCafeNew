@@ -1,6 +1,57 @@
 <resources>
     <string name="app_name">ICafaApp</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_usernameHint">username</string>
+    <string name="login_passwordHint">password</string>
+    <string name="login_loginText">Login</string>
+    <string name="login_iCafeText">iCafe</string>
+
+    <!--Menu -->
+    <string name="menu_menuText">MENU</string>
+    <string name="menu_manageText">MANAGER</string>
+    <string name="menu_historyText">HISTORY</string>
+    <string name="menu_aboutText">ABOUT</string>
+
+
+    <!--About -->
+    <string name="about_aboutText">ABOUT</string>
+    <string name="about_fullnameText">ชื่อ: นายเอกฆสิษฐ์ ประพฤติกิจธร</string>
+    <string name="about_studentIDText">รหัสนิสิต: 59160148</string>
+
+    <!--History -->
+    <string name="history_historyText">HISTORY</string>
+    <string name="history_nameText">NAME</string>
+    <string name="history_timeText">TIME</string>
+    <string name="history_costText">COST</string>
+
+    <!--Manager -->
+    <string name="manage_manageText">MANAGER</string>
+    <string name="manage_nameText">ชื่อ : Perth</string>
+    <string name="manage_ageText">อายุ : 22 ปี</string>
+    <string name="manage_timeText">เวลา : 23 วินาที</string>
+    <string name="manage_costText">ราคา : 200 บาท</string>
+    <string name="manage_selectText">SELECT</string>
+
+    <string name="manage_emptyText">ว่าง</string>
+    <string name="manage_selectingText">กำลังเลือก</string>
+    <string name="manage_busyText">ไม่ว่าง</string>
+
+    <string name="manage_1Button">1</string>
+    <string name="manage_2Button">2</string>
+    <string name="manage_3Button">3</string>
+    <string name="manage_4Button">4</string>
+    <string name="manage_5Button">5</string>
+    <string name="manage_6Button">6</string>
+    <string name="manage_7Button">7</string>
+    <string name="manage_8Button">8</string>
+    <string name="manage_9Button">9</string>
+    <!--Manager -->
+
+
+    <string name="detail_detailText">DETAIL</string>
+    <string name="detail_nameHint">NAME</string>
+    <string name="detail_timeHint">TIME</string>
+    <string name="detail_ageHint">AGE</string>
+    <string name="detail_submitText">SUBMIT</string>
 </resources>
