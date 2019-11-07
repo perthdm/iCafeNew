@@ -1,25 +1,26 @@
-package com.android.example.icafaapp.home
+package com.android.example.icafaapp.login
 
 
 import android.os.Bundle
 import android.view.*
-import androidx.fragment.app.Fragment
 import androidx.databinding.DataBindingUtil
+import androidx.fragment.app.Fragment
 import androidx.navigation.findNavController
 import androidx.navigation.ui.NavigationUI
-
 import com.android.example.icafaapp.R
-import com.android.example.icafaapp.databinding.FragmentAboutBinding
 import com.android.example.icafaapp.databinding.FragmentHomeBinding
+import com.android.example.icafaapp.databinding.FragmentLoginBinding
 
-
-class HomeFragment : Fragment() {
+/**
+ * A simple [Fragment] subclass.
+ */
+class LoginFragment : Fragment() {
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        val binding = DataBindingUtil.inflate<FragmentHomeBinding>(inflater,R.layout.fragment_home,container,false)
+        val binding = DataBindingUtil.inflate<FragmentLoginBinding>(inflater,R.layout.fragment_login,container,false)
         setHasOptionsMenu(true)
         return binding.root
     }
