@@ -13,6 +13,6 @@
     <fragment
         android:id="@+id/loginFragment"
         android:name="com.android.example.icafaapp.login.LoginFragment"
-        android:label="fragment_login"
+        android:label="iCafe Application"
         tools:layout="@layout/fragment_login" />
 </navigation>
